@@ -1,4 +1,4 @@
 let a = 12
-let b =10
+let b = 100
 let c = a + b
 
